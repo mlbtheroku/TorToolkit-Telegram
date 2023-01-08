@@ -47,8 +47,8 @@ except:
         # MEGA CONFIG
         MEGA_ENABLE = True 
         MEGA_API = "6ZF3jKAJ"
-        MEGA_UNAME = 4tgbot@gmail.com
-        MEGA_PASS = Rpkvipsr3@#
+        MEGA_UNAME = "4tgbot@gmail.com"
+        MEGA_PASS = "Rpkvipsr3@#"
         ALLOW_MEGA_FOLDER = True
         ALLOW_MEGA_FILES = True
         MAX_MEGA_LIMIT = 10

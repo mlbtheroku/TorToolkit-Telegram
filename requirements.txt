@@ -28,7 +28,7 @@ yarl==1.5.1
 youtube-dl
 instaloader==4.6
 natsort==7.1.0
-Pyrogram==1.2.9
+Pyrogram==1.4.12
 lxml
 beautifulsoup4>=4.8.2,<4.8.10
 speedtest-cli

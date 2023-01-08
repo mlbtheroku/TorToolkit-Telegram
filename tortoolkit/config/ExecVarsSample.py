@@ -11,7 +11,7 @@ except:
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
-        SERVPORT = 80
+        SERVPORT = 5000
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [5884190716]
@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "mongodb+srv://aio:aio@aio.5z4gxok.mongodb.net/?retryWrites=true&w=majority"
+        DB_URI = "postgres://yukjcgin:NcbdNkUa32FRsdJYjWbxroFcMVRGKHuG@arjuna.db.elephantsql.com/yukjcgin"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"

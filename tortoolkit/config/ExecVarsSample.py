@@ -8,7 +8,7 @@ except:
         API_HASH = "2c015c994c57b312708fecc8a2a0f1a6"
         API_ID = 15830858
         BOT_TOKEN = "5833550185:AAFzUdwF-uiFxIVwzrVS7VepS5GH9tfv0Bk"
-        BASE_URL_OF_BOT = ""
+        BASE_URL_OF_BOT = "https://gd32hc.eu-ccofhtfzmvsd.dopraxapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 5000
